@@ -1,11 +1,25 @@
-.card {
-  padding: $spacing;
-  margin: 0 1rem $spacing 1rem;
-  border-radius: $border-radius;
-  box-shadow: $shadow-dark;
-  background-color: white;
+.adopt {
+  //limit to 3 columns even on larger screens
+  //have not figured out how to do this with flex yet
+
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: $spacing;
+  // align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+
+  .card {
+    flex: 0 32%;
+    max-width: 250px;
+    // width: 250px;
+
+    padding: $spacing;
+    margin: 0 1rem $spacing 1rem;
+    border-radius: $border-radius;
+    box-shadow: $shadow-dark;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: $spacing;
+  }
 }
