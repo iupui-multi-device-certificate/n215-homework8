@@ -1,5 +1,6 @@
 import { homeContent } from "../app/views/home.js";
 import { blogContent } from "../app/views/blog.js";
+import { aboutContent } from "../app/views/about.js";
 
 function initListeners() {
   $("nav a").click(function (e) {
