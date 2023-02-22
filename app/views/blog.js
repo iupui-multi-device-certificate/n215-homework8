@@ -1,10 +1,51 @@
-// export const blog = () => `
+export const blog = () => `
 
-// <section class="blog">
-// <article>
+        <section class="blog">
+          <article>
+            <h1>Article 1</h1>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem
+              id, cumque aperiam tempora necessitatibus facilis earum explicabo
+              minima commodi ut dicta molestiae quis neque eveniet odit, odio
+              blanditiis impedit enim!
+            </p>
+          </article>
+          <article>
+            <h1>Article 2</h1>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem
+              id, cumque aperiam tempora necessitatibus facilis earum explicabo
+              minima commodi ut dicta molestiae quis neque eveniet odit, odio
+              blanditiis impedit enim!
+            </p>
+          </article>
+          <article>
+            <h1>Article 3</h1>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem
+              id, cumque aperiam tempora necessitatibus facilis earum explicabo
+              minima commodi ut dicta molestiae quis neque eveniet odit, odio
+              blanditiis impedit enim!
+            </p>
+          </article>
+          <article>
+            <h1>Article 4</h1>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem
+              id, cumque aperiam tempora necessitatibus facilis earum explicabo
+              minima commodi ut dicta molestiae quis neque eveniet odit, odio
+              blanditiis impedit enim!
+            </p>
+          </article>
+          <article>
+            <h1>Article 5</h1>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem
+              id, cumque aperiam tempora necessitatibus facilis earum explicabo
+              minima commodi ut dicta molestiae quis neque eveniet odit, odio
+              blanditiis impedit enim!
+            </p>
+          </article>
+        </section>
 
-// <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem id, cumque aperiam tempora necessitatibus facilis earum explicabo minima commodi ut dicta molestiae quis neque eveniet odit, odio blanditiis impedit enim!</p>
-
-// </section>
-
-// `;
+`;
