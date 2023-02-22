@@ -15,7 +15,7 @@
     justify-content: space-evenly;
     gap: 1.25rem;
 
-    border-radius: 0.375rem;
+    border-radius: $border-radius;
     padding: 1.25rem;
     margin: 0 1rem 1.25rem 1rem;
 
@@ -25,7 +25,7 @@
     // background-color: white;
 
     img {
-      border-radius: 0.375rem;
+      border-radius: $border-radius;
       box-shadow: $shadow;
     }
   }
@@ -33,7 +33,7 @@
   p {
     padding: 1.25rem;
     margin: 0 1rem 1.25rem 1rem;
-    border-radius: 0.375rem;
+    border-radius: $border-radius;
     box-shadow: $shadow;
     // background-color: white;
   }
