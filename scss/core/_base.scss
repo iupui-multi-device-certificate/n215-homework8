@@ -8,6 +8,19 @@
 //   font-weight: normal;
 // }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin-bottom: 0.5rem;
+}
+
+// p {
+//   margin-bottom: 0.75rem;
+// }
 // https://dev.to/inezabonte/how-to-make-footer-stay-at-the-bottom-298b
 .container {
   min-height: 100vh;
