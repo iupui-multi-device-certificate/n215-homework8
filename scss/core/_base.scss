@@ -37,7 +37,7 @@ body {
   //set font same as Bootstrap, Tailwind, etc.
 }
 .content {
-  margin: 0 auto 1.25rem auto;
+  margin: 0 auto $spacing auto;
   width: 80%;
   // background-color: #f1ddcf;
   background-color: white;

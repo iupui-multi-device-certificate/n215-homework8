@@ -1,15 +1,13 @@
 //TODO: put this in blog class
 .blog-post {
-  // padding: 0 1.25rem 0 1.25rem;
-  padding: 1.25rem;
-  margin: 0 1rem 1.25rem 1rem;
-  // margin-bottom: 1.25rem;
+  padding: $spacing;
+  margin: 0 1rem $spacing 1rem;
   border-radius: $border-radius;
   box-shadow: $shadow;
   background-color: white;
   display: flex;
   align-items: center;
-  gap: 1.25rem;
+  gap: $spacing;
 
   .blog-post-body {
     .blog-post-title {
