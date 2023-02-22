@@ -7,6 +7,10 @@
   box-sizing: border-box;
 }
 
+.upper {
+  text-transform: uppercase;
+}
+
 .container {
   min-height: 100vh;
   display: flex;
