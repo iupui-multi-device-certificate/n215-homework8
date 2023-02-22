@@ -10,12 +10,11 @@
   background-color: black;
 
   a {
-    //TODO: add hover underline
-
-    color: white;
+    color: $brand-light;
     text-decoration-color: $brand-primary;
-    // &:hover {
-    //   text-
-    // }
+    &:hover {
+      color: $brand-primary;
+      text-decoration-color: $brand-light;
+    }
   }
 }

@@ -55,8 +55,12 @@ body {
   background-color: black;
 }
 .navbar a {
-  color: white;
+  color: #fff;
   text-decoration-color: deeppink;
+}
+.navbar a:hover {
+  color: deeppink;
+  text-decoration-color: #fff;
 }
 
 footer {
