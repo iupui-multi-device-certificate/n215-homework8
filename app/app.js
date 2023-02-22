@@ -21,7 +21,7 @@ function initListeners() {
     let aID = e.currentTarget.id;
 
     $("#app").html(setTitle(aID));
-    // $("#app").append(blog);
+    $("#app").append(blog);
   });
 }
 $(document).ready(function () {
