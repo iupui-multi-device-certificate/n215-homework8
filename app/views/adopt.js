@@ -3,7 +3,7 @@ export const adoptContent = () => `        <section class="adopt">
 <!-- TODO: make whole card clickable w/o messing up positioning or accessibility-->
 <div class="cards">
   <article class="card">
-  <img src="https://loremflickr.com/250/250/dog?random=1" />
+  <img src="../images/adopt/dog01.jpeg" alt="" />
     <div class="card-body">
       <h1 class="card-title">Doggie 1</h1>
       <p class="card-text">
@@ -14,7 +14,7 @@ export const adoptContent = () => `        <section class="adopt">
     </div>
   </article>
   <article class="card">
-  <img src="https://loremflickr.com/250/250/dog?random=2" />
+  <img src="../images/adopt/dog02.jpeg" alt="" />
     <div class="card-body">
       <h1 class="card-title">Doggie 2</h1>
       <p class="card-text">
@@ -25,7 +25,7 @@ export const adoptContent = () => `        <section class="adopt">
     </div>
   </article>
   <article class="card">
-  <img src="https://loremflickr.com/250/250/dog?random=3" />
+  <img src="../images/adopt/dog03.jpeg" alt="" />
     <div class="card-body">
       <h1 class="card-title">Doggie 3</h1>
       <p class="card-text">
@@ -36,7 +36,7 @@ export const adoptContent = () => `        <section class="adopt">
     </div>
   </article>
   <article class="card">
-  <img src="https://loremflickr.com/250/250/dog?random=4" />
+  <img src="../images/adopt/dog04.jpeg" alt="" />
     <div class="card-body">
       <h1 class="card-title">Doggie 4</h1>
       <p class="card-text">
@@ -47,7 +47,7 @@ export const adoptContent = () => `        <section class="adopt">
     </div>
   </article>
   <article class="card">
-  <img src="https://loremflickr.com/250/250/dog?random=5" />
+  <img src="../images/adopt/dog05.jpeg" alt="" />
     <div class="card-body">
       <h1 class="card-title">Doggie 5</h1>
       <p class="card-text">
@@ -58,7 +58,7 @@ export const adoptContent = () => `        <section class="adopt">
     </div>
   </article>
   <article class="card">
-  <img src="https://loremflickr.com/250/250/dog?random=6" />
+  <img src="../images/adopt/dog06.jpeg" alt="" />
     <div class="card-body">
       <h1 class="card-title">Doggie 6</h1>
       <p class="card-text">
