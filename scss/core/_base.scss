@@ -8,9 +8,18 @@
 //   font-weight: normal;
 // }
 
+// https://dev.to/inezabonte/how-to-make-footer-stay-at-the-bottom-298b
+.container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: greenyellow;
+}
 .content {
-  margin: 0 auto;
+  // margin: 0 auto;
+  margin: 0 auto 1.25rem auto;
   width: 80%;
-  height: 100%;
+
+  // height: calc(100% - (2 * 50px));
   background-color: pink;
 }
