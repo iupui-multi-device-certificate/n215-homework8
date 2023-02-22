@@ -57,6 +57,9 @@ footer {
   justify-content: center;
 }
 
+.blog-post {
+  padding: 0 1rem 1rem 1rem;
+}
 .blog-post .blog-post-body {
   display: flex;
   align-items: center;
