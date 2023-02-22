@@ -28,5 +28,6 @@ function initListeners() {
 }
 $(document).ready(function () {
   initListeners();
+  $("#app").html(homeContent);
   // $("#app").html(setTitle("home"));
 });
