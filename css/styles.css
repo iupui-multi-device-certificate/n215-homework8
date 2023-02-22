@@ -127,6 +127,10 @@ footer {
 .adopt .card .card-body {
   padding: 1.25rem;
 }
+.adopt .card a {
+  text-decoration: none;
+  color: black;
+}
 .adopt .card img {
   width: 100%;
   -o-object-fit: cover;
