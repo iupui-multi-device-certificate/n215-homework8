@@ -14,7 +14,7 @@ export const aboutContent = () => `       <section class="about">
 </div>
 <div class="team">
   <div class="team-member-container">
-    <img src="https://via.placeholder.com/200" alt="" />
+
     <div class="team-member-body">
       <h2 class="team-member">John Doe</h2>
       <p>
