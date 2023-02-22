@@ -1,15 +1,16 @@
 .adopt {
   //limit to 3 columns even on larger screens
   //have not figured out how to do this with flex yet
-
-  display: flex;
-  // align-items: center;
-  justify-content: space-between;
-  flex-wrap: wrap;
+  // margin: 0 auto;
+  display: grid;
+  justify-content: center;
+  gap: $spacing;
+  // grid-template-columns: repeat(3, minmax(250px, 1fr));
+  grid-template-columns: repeat(3, minmax(250px, 350px));
 
   .card {
-    flex: 0 32%;
-    max-width: 250px;
+    // flex: 0 32%;
+    // max-width: 250px;
     // width: 250px;
 
     padding: $spacing;
