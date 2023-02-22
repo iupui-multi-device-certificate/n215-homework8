@@ -68,6 +68,15 @@ footer {
   justify-content: center;
 }
 
+.home .teasers {
+  width: 70%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.25rem;
+}
+
 .blog-post {
   padding: 1.25rem;
   margin: 0 1rem 1.25rem 1rem;
