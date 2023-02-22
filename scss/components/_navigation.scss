@@ -1,0 +1,19 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+
+  height: 50px;
+  font-size: 1.5rem;
+
+  background-color: black;
+
+  a {
+    // text-decoration: none;
+    color: white;
+
+    // &:hover {
+    //   text-decoration-color: deeppink;
+    // }
+  }
+}

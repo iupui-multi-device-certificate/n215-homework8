@@ -1,0 +1,40 @@
+/* reset */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  /* base font size */
+  font-size: 1rem;
+}
+
+.content {
+  margin: 0 auto;
+  width: 80%;
+  height: 100%;
+  background-color: pink;
+}
+
+footer {
+  color: white;
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  height: 50px;
+  font-size: 1.5rem;
+  background-color: black;
+}
+.navbar a {
+  color: white;
+}
