@@ -2,9 +2,10 @@ import { blog } from "../app/views/blog.js";
 
 const paragraph = `<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem id, cumque aperiam tempora necessitatibus facilis earum explicabo minima commodi ut dicta molestiae quis neque eveniet odit, odio blanditiis impedit enim!</p>`;
 
-function setTitle(pageName) {
-  return `<h1>${pageName}</h1>`;
-}
+// nice to use variable, but not ready for a templating system
+// function setTitle(pageName) {
+//   return `<h1>${pageName}</h1>`;
+// }
 
 /*
 <div class="images">
@@ -20,11 +21,11 @@ function initListeners() {
     e.preventDefault();
     let aID = e.currentTarget.id;
 
-    $("#app").html(setTitle(aID));
-    $("#app").append(blog);
+    // $("#app").html(setTitle(aID));
+    $("#app").html(blog);
   });
 }
 $(document).ready(function () {
   initListeners();
-  $("#app").html(setTitle("home"));
+  // $("#app").html(setTitle("home"));
 });

@@ -7,11 +7,6 @@
   box-sizing: border-box;
 }
 
-body {
-  /* base font size */
-  font-size: 1rem;
-}
-
 .content {
   margin: 0 auto;
   width: 80%;

@@ -1,6 +1,7 @@
 export const blog = () => `
 
         <section class="blog">
+        <h1 class="section-title">Blog</h1>
           <article>
             <h1>Article 1</h1>
             <p>
