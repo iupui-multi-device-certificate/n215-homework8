@@ -1,4 +1,4 @@
-const adoptContent = () => `        <section class="adopt">
+export const adoptContent = () => `        <section class="adopt">
 <h1 class="section-title upper">Adopt</h1>
 <!-- TODO: make whole card clickable w/o messing up positioning or accessibility-->
 <div class="cards">

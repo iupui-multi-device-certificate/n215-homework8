@@ -1,4 +1,5 @@
 import { homeContent } from "../app/views/home.js";
+import { adoptContent } from "../app/views/adopt.js";
 import { blogContent } from "../app/views/blog.js";
 import { aboutContent } from "../app/views/about.js";
 
