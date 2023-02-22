@@ -1,3 +1,5 @@
+import { blog } from "../app/views/blog.js";
+
 const paragraph = `<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem id, cumque aperiam tempora necessitatibus facilis earum explicabo minima commodi ut dicta molestiae quis neque eveniet odit, odio blanditiis impedit enim!</p>`;
 
 function setTitle(pageName) {
@@ -16,8 +18,10 @@ function setTitle(pageName) {
 function initListeners() {
   $("nav a").click(function (e) {
     e.preventDefault();
+    let aID = e.currentTarget.id;
 
     $("#app").html(setTitle(aID));
+    // $("#app").append(blog);
   });
 }
 $(document).ready(function () {
