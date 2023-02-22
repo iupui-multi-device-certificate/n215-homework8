@@ -5,6 +5,7 @@ export const blog = () => `
           <article class="blog-post">
             <h1>Article 1</h1>
              <div class="blog-post-body">
+             <img src="https://source.unsplash.com/random/200x200" alt="">
               <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem
                 id, cumque aperiam tempora necessitatibus facilis earum explicabo
