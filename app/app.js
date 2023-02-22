@@ -30,10 +30,11 @@ function initListeners() {
     // let title = `<h1>${pageName}</h1>`;
     // console.log(title);
 
-    console.log(setTitle(aID));
-    // $("#app").html(title);
+    // console.log(setTitle(aID));
+    $("#app").html(setTitle(aID));
   });
 }
 $(document).ready(function () {
   initListeners();
+  $("#app").html(setTitle("home"));
 });
