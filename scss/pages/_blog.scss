@@ -7,6 +7,9 @@
   box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
   background-color: white;
   .blog-post-body {
+    .blog-post-title {
+      font-size: 1.5rem;
+    }
     display: flex;
 
     align-items: center;

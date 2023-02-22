@@ -78,3 +78,6 @@ footer {
   align-items: center;
   gap: 1.25rem;
 }
+.blog-post .blog-post-body .blog-post-title {
+  font-size: 1.5rem;
+}

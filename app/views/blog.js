@@ -3,7 +3,7 @@ export const blog = () => `
         <section class="blog">
         <h1 class="section-title upper">Blog</h1>
           <article class="blog-post">
-            <h1>Article 1</h1>
+            <h1 class="blog-post-title">Article 1</h1>
              <div class="blog-post-body">
               <img src="https://source.unsplash.com/random/200x200" alt="">
                 <p>
