@@ -139,7 +139,7 @@ footer {
   flex-direction: column;
 }
 .cards .card .card-body a {
-  text-decoration: none;
+  text-decoration-color: #000;
   color: deeppink;
   align-self: flex-end;
 }
