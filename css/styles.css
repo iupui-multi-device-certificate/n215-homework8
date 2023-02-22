@@ -34,16 +34,6 @@ p {
   background-color: pink;
 }
 
-footer {
-  color: white;
-  background-color: black;
-  height: 50px;
-  margin-top: auto;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
 .navbar {
   display: flex;
   align-items: center;
@@ -55,4 +45,20 @@ footer {
 }
 .navbar a {
   color: white;
+}
+
+footer {
+  color: white;
+  background-color: black;
+  height: 50px;
+  margin-top: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.blog-post .blog-post-body {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
 }
