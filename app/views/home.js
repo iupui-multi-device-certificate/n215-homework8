@@ -1,9 +1,10 @@
 export const homeContent = () => `        <section class="home upper">
 <h1 class="section-title upper">Home</h1>
 <div class="teasers">
-  <img src="https://source.unsplash.com/random/200x200" alt="" />
-  <img src="https://source.unsplash.com/random/200x200" alt="" />
-  <img src="https://source.unsplash.com/random/200x200" alt="" />
+  <img src="https://loremflickr.com/250/250/dog/?random=1" alt="" />
+  <img src="https://loremflickr.com/250/250/dog/?random=2" alt="" />
+  <img src="https://loremflickr.com/250/250/dog/?random=3" alt="" />
+
 </div>
 
 <div class="home-body">
