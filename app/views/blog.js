@@ -1,6 +1,6 @@
 //TODO: use downloaded images
 
-export const blog = () => `
+export const blogContent = () => `
 
         <section class="blog">
         <h1 class="section-title upper">Blog</h1>

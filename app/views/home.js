@@ -1,4 +1,4 @@
-export const home = () => `        <section class="home upper">
+export const homeContent = () => `        <section class="home upper">
 <h1 class="section-title">Home</h1>
 <div class="teasers">
   <img src="https://source.unsplash.com/random/200x200" alt="" />
