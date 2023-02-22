@@ -35,7 +35,8 @@ body {
 .content {
   margin: 0 auto 1.25rem auto;
   width: 80%;
-  background-color: pink;
+  background-color: #f1ddcf;
+  border-radius: 0.375rem;
 }
 
 .navbar {
