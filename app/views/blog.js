@@ -2,16 +2,18 @@ export const blog = () => `
 
         <section class="blog">
         <h1 class="section-title upper">Blog</h1>
-          <article>
+          <article class="blog-post">
             <h1>Article 1</h1>
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem
-              id, cumque aperiam tempora necessitatibus facilis earum explicabo
-              minima commodi ut dicta molestiae quis neque eveniet odit, odio
-              blanditiis impedit enim!
-            </p>
+             <div class="blog-post-body">
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem
+                id, cumque aperiam tempora necessitatibus facilis earum explicabo
+                minima commodi ut dicta molestiae quis neque eveniet odit, odio
+                blanditiis impedit enim!
+              </p>
+            </div>
           </article>
-          <article>
+          <article class="blog-post">
             <h1>Article 2</h1>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem
@@ -20,7 +22,7 @@ export const blog = () => `
               blanditiis impedit enim!
             </p>
           </article>
-          <article>
+          <article class="blog-post">
             <h1>Article 3</h1>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem
@@ -29,7 +31,7 @@ export const blog = () => `
               blanditiis impedit enim!
             </p>
           </article>
-          <article>
+          <article class="blog-post">
             <h1>Article 4</h1>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem
@@ -38,7 +40,7 @@ export const blog = () => `
               blanditiis impedit enim!
             </p>
           </article>
-          <article>
+          <article class="blog-post">
             <h1>Article 5</h1>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem
