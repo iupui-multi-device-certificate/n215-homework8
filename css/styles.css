@@ -124,6 +124,10 @@ footer {
   align-items: center;
   gap: 1.25rem;
 }
+.adopt .card .card-title {
+  text-align: center;
+  color: deeppink;
+}
 .adopt .card .card-body {
   padding: 1.25rem;
   display: flex;

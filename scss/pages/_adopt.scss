@@ -15,6 +15,12 @@
     align-items: center;
     gap: $spacing;
 
+    .card-title {
+      text-align: center;
+      //not sure if like this
+      color: $brand-primary;
+    }
+
     .card-body {
       padding: $spacing;
       display: flex;
