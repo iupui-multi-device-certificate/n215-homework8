@@ -1,3 +1,5 @@
+//TODO: use downloaded images
+
 export const blog = () => `
 
         <section class="blog">
