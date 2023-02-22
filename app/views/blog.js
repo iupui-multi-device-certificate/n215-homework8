@@ -6,7 +6,7 @@ export const blogContent = () => `
         <h1 class="section-title upper">Blog</h1>
           <article class="blog-post">
             
-          <img src="https://source.unsplash.com/random/200x200" alt="">
+          <img src="../images/blog/ja-san-miguel-_-QQuvAwQ-0-unsplash.jpg" alt="">
              <div class="blog-post-body">
               <h1 class="blog-post-title">Article 1</h1>
                 <p>
@@ -18,7 +18,7 @@ export const blogContent = () => `
             </div>
           </article>
           <article class="blog-post">
-          <img src="https://source.unsplash.com/random/200x200" alt="">
+          <img src="images/blog/oscar-sutton-yihlaRCCvd4-unsplash.jpg" alt="">
           <div class="blog-post-body">
           <h1 class="blog-post-title">Article 2</h1>
               <p>
@@ -30,7 +30,7 @@ export const blogContent = () => `
           </div>
           </article>
           <article class="blog-post">
-          <img src="https://source.unsplash.com/random/200x200" alt="">
+          <img src="../images/blog/scoobs-indy-humane.jpg" alt="">
           <div class="blog-post-body">
           <h1 class="blog-post-title">Article 3</h1>
               <p>
