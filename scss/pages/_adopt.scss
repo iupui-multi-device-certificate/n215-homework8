@@ -1,0 +1,10 @@
+.card {
+  padding: $spacing;
+  margin: 0 1rem $spacing 1rem;
+  border-radius: $border-radius;
+  box-shadow: $shadow-dark;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  gap: $spacing;
+}
