@@ -24,3 +24,15 @@
     gap: $spacing;
   }
 }
+
+@media only screen and (max-width: $breakpoint-lg) {
+  .adopt {
+    grid-template-columns: repeat(2, 0.5fr);
+  }
+}
+
+@media only screen and (max-width: $breakpoint-md) {
+  .adopt {
+    grid-template-columns: 350px;
+  }
+}
