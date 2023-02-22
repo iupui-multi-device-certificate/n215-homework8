@@ -126,12 +126,9 @@ footer {
 }
 .adopt .card .card-body {
   padding: 1.25rem;
-  display: flex;
-  flex-direction: column;
-  align-items: space-between;
 }
-.adopt .card .card-body .card-link {
-  font-size: 1.25rem;
+.adopt .card .card-body a {
+  text-decoration: none;
   color: deeppink;
 }
 .adopt .card img {
