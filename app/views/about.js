@@ -36,7 +36,7 @@ export const aboutContent = () => `       <section class="about">
       </p>
     </div>
 
-    <img src="https://via.placeholder.com/200" alt="" />
+    <img src="../images/team/pexels-humphrey-muleba-1612846.jpg" alt="" />
   </div>
   <div class="team-member-container">
     <img src="https://via.placeholder.com/200" alt="" />
