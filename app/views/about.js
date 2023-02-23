@@ -14,7 +14,7 @@ export const aboutContent = () => `       <section class="about">
 </div>
 <div class="team">
   <div class="team-member-container">
-    <img src="images/team/pexels-pixabay-159557.jpg" alt="John 'Doe and Oscar" />
+    <img src="images/team/pexels-pixabay-159557.jpg" alt="John Doe" />
     <div class="team-member-body">
       <h2 class="team-member">John Doe</h2>
       <p>
@@ -36,10 +36,10 @@ export const aboutContent = () => `       <section class="about">
       </p>
     </div>
 
-    <img src="images/team/pexels-humphrey-muleba-1612846.jpg" alt="" />
+    <img src="images/team/pexels-humphrey-muleba-1612846.jpg" alt="Jane Doe" />
   </div>
   <div class="team-member-container">
-    <img src="images/team/pexels-christina-morillo-1181424.jpg" alt="" />
+    <img src="images/team/pexels-christina-morillo-1181424.jpg" alt="Zara Smith" />
     <div class="team-member-body">
       <h2 class="team-member">Zara Smith</h2>
       <p>

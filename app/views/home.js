@@ -1,9 +1,9 @@
 export const homeContent = () => `        <section class="home upper">
 <h1 class="section-title upper">Home</h1>
 <div class="teasers">
-  <img src="images/teasers/teaser01.jpeg" alt="" />
-  <img src="images/teasers/teaser02.jpeg" alt="" />
-  <img src="images/teasers/teaser03.jpeg" alt="" />
+  <img src="images/teasers/teaser01.jpeg" alt="Teaser 01" />
+  <img src="images/teasers/teaser02.jpeg" alt="Teaser 02" />
+  <img src="images/teasers/teaser03.jpeg" alt="Teaser 03" />
 
 </div>
 
