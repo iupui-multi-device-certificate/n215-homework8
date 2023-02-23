@@ -1,9 +1,8 @@
-//TODO: use downloaded images
-
 export const blogContent = () => `
 
         <section class="blog">
         <h1 class="section-title upper">Blog</h1>
+        <div class="blogs">
           <article class="blog-post">
             
           <img src="images/blog/blog01.jpeg" alt="Blog 01">
@@ -41,6 +40,7 @@ export const blogContent = () => `
               </p>
           </div>
           </article>
+          </div>
         </section>
 
 `;
