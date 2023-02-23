@@ -57,10 +57,22 @@ body {
 .navbar a {
   color: #fff;
   text-decoration-color: deeppink;
+  text-decoration-thickness: 2px;
 }
 .navbar a:hover {
   color: deeppink;
   text-decoration-color: #fff;
+}
+.navbar .logo-link {
+  color: deeppink;
+  text-decoration-color: #fff;
+}
+.navbar .logo-link i {
+  margin-right: 0.5rem;
+}
+.navbar .logo-link:hover {
+  color: #fff;
+  text-decoration-color: deeppink;
 }
 
 footer {
