@@ -21,3 +21,10 @@
     box-shadow: $shadow;
   }
 }
+
+@media only screen and (max-width: $breakpoint-md) {
+  .team-member-container {
+    display: flex;
+    flex-direction: column;
+  }
+}
