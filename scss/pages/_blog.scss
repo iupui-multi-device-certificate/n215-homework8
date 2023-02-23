@@ -1,17 +1,18 @@
-//TODO: put this in blog class
-.blog-post {
-  padding: $spacing;
-  margin: 0 1rem $spacing 1rem;
-  border-radius: $border-radius;
-  box-shadow: $shadow;
-  background-color: white;
-  display: flex;
-  align-items: center;
-  gap: $spacing;
+.blog {
+  .blog-post {
+    padding: $spacing;
+    margin: 0 1rem $spacing 1rem;
+    border-radius: $border-radius;
+    box-shadow: $shadow;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    gap: $spacing;
 
-  .blog-post-body {
-    .blog-post-title {
-      font-size: 1.5rem;
+    .blog-post-body {
+      .blog-post-title {
+        font-size: 1.5rem;
+      }
     }
   }
 }

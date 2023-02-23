@@ -111,7 +111,7 @@ footer {
   box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.25);
 }
 
-.blog-post {
+.blog .blog-post {
   padding: 1.25rem;
   margin: 0 1rem 1.25rem 1rem;
   border-radius: 0.375rem;
@@ -121,7 +121,7 @@ footer {
   align-items: center;
   gap: 1.25rem;
 }
-.blog-post .blog-post-body .blog-post-title {
+.blog .blog-post .blog-post-body .blog-post-title {
   font-size: 1.5rem;
 }
 
