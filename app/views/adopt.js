@@ -3,7 +3,7 @@ export const adoptContent = () => `        <section class="adopt">
 <!-- TODO: make whole card clickable w/o messing up positioning or accessibility-->
 <div class="cards">
   <article class="card">
-  <img src="../images/adopt/dog01.jpeg" alt="Jack" />
+  <img src="images/adopt/dog01.jpeg" alt="Jack" />
     <div class="card-body">
       <h1 class="card-title">Jack</h1>
       <p class="card-text">
@@ -14,7 +14,7 @@ export const adoptContent = () => `        <section class="adopt">
     </div>
   </article>
   <article class="card">
-  <img src="../images/adopt/dog02.jpeg" alt="Susie" />
+  <img src="images/adopt/dog02.jpeg" alt="Susie" />
     <div class="card-body">
       <h1 class="card-title">Susie</h1>
       <p class="card-text">
@@ -25,7 +25,7 @@ export const adoptContent = () => `        <section class="adopt">
     </div>
   </article>
   <article class="card">
-  <img src="../images/adopt/dog03.jpeg" alt="Ice Cream" />
+  <img src="images/adopt/dog03.jpeg" alt="Ice Cream" />
     <div class="card-body">
       <h1 class="card-title">Ice Cream</h1>
       <p class="card-text">
@@ -36,7 +36,7 @@ export const adoptContent = () => `        <section class="adopt">
     </div>
   </article>
   <article class="card">
-  <img src="../images/adopt/dog04.jpeg" alt="Thor" />
+  <img src="images/adopt/dog04.jpeg" alt="Thor" />
     <div class="card-body">
       <h1 class="card-title">Thor</h1>
       <p class="card-text">
@@ -47,7 +47,7 @@ export const adoptContent = () => `        <section class="adopt">
     </div>
   </article>
   <article class="card">
-  <img src="../images/adopt/dog05.jpeg" alt="Anna & Timmy" />
+  <img src="images/adopt/dog05.jpeg" alt="Anna & Timmy" />
     <div class="card-body">
       <h1 class="card-title">Anna & Timmy</h1>
       <p class="card-text">
@@ -58,7 +58,7 @@ export const adoptContent = () => `        <section class="adopt">
     </div>
   </article>
   <article class="card">
-  <img src="../images/adopt/dog06.jpeg" alt="Chocolate" />
+  <img src="images/adopt/dog06.jpeg" alt="Chocolate" />
     <div class="card-body">
       <h1 class="card-title">Chocolate</h1>
       <p class="card-text">
