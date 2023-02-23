@@ -125,7 +125,11 @@ footer {
   font-size: 1.5rem;
 }
 
+.adopt {
+  width: 100%;
+}
 .adopt .cards {
+  width: 100%;
   display: grid;
   justify-content: center;
   gap: 1.25rem;
