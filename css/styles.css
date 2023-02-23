@@ -144,6 +144,7 @@ footer {
 .cards .card .card-title {
   text-align: center;
   color: deeppink;
+  font-size: 1.5rem;
 }
 .cards .card .card-body {
   padding: 1.25rem;
