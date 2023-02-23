@@ -39,9 +39,9 @@ export const aboutContent = () => `       <section class="about">
     <img src="../images/team/pexels-humphrey-muleba-1612846.jpg" alt="" />
   </div>
   <div class="team-member-container">
-    <img src="https://via.placeholder.com/200" alt="" />
+    <img src="../images/team/pexels-christina-morillo-1181424.jpg" alt="" />
     <div class="team-member-body">
-      <h2 class="team-member">Zorin Smith</h2>
+      <h2 class="team-member">Zara Smith</h2>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit.
         Accusamus pariatur officia unde exercitationem ad rerum libero
