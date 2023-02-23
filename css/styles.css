@@ -125,6 +125,12 @@ footer {
   font-size: 1.5rem;
 }
 
+@media only screen and (max-width: 768px) {
+  .blogs .blog-post {
+    display: flex;
+    flex-direction: column;
+  }
+}
 .adopt {
   width: 100%;
 }
